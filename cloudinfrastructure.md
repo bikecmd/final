@@ -1,6 +1,7 @@
 # Useful Information
 
-## bucket policy to allow public access
+## Bucket Policy to Allow Public Access
+```json
 {
 	"Version": "2012-10-17",
 	"Statement": [
@@ -12,3 +13,4 @@
 		}
 	]
 }
+```
